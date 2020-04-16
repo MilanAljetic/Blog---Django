@@ -1,3 +1,11 @@
+#test{
+    text-color: red;
+    text-align: center;
+}
+.about{
+    text-color: red;
+}
+
 .techfont{
   font-family: 'Indie Flower', cursive;
   font-size: 1.5em;
@@ -37,9 +45,7 @@
 /*COLOR CHANGER*/
 /*Credit and Source: http://codepen.io/thapliyalshivam/pen/dvgXVO*/
 .loader{
-  filter:hue-rotate(0deg);
-  color: linear-gradient(45deg,#0f8,#08f);
-  animation:hue 5000ms infinite linear;
+  font-size: 1.5em;
 }
 
 @keyframes spinify {
