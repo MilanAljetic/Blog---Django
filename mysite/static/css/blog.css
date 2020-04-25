@@ -19,3 +19,11 @@
 h1{
     color: red;
 }
+
+#content container{
+    padding-top: 30px;
+}
+
+.fff{
+    text-align: center;
+}
